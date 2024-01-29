@@ -11,6 +11,7 @@
 		695064A22AEEA8C70059E06E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695064A12AEEA8C70059E06E /* ContentView.swift */; };
 		695064A42AEEA8C80059E06E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 695064A32AEEA8C80059E06E /* Assets.xcassets */; };
 		695064A72AEEA8C80059E06E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 695064A62AEEA8C80059E06E /* Preview Assets.xcassets */; };
+		695064AE2AEEA8E70059E06E /* TurkishFlagShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695064AD2AEEA8E70059E06E /* TurkishFlagShape.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		695064A12AEEA8C70059E06E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		695064A32AEEA8C80059E06E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		695064A62AEEA8C80059E06E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		695064AD2AEEA8E70059E06E /* TurkishFlagShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TurkishFlagShape.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				6950649F2AEEA8C70059E06E /* TurkishFlagApp.swift */,
+				695064AD2AEEA8E70059E06E /* TurkishFlagShape.swift */,
 				695064A12AEEA8C70059E06E /* ContentView.swift */,
 				695064A32AEEA8C80059E06E /* Assets.xcassets */,
 				695064A52AEEA8C80059E06E /* Preview Content */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				695064A22AEEA8C70059E06E /* ContentView.swift in Sources */,
+				695064AE2AEEA8E70059E06E /* TurkishFlagShape.swift in Sources */,
 				695064A02AEEA8C70059E06E /* TurkishFlagApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
